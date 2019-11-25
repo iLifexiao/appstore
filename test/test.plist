@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>请填上你的ipa下载地址(比如:http://www.example.com/app.ipa)</string>
+                    <string>https://raw.githubusercontent.com/iLifexiao/appstore/master/test/test.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>请填上开发者相关信息</string>
+                <string>com.nd.sdp.component.debug4.ele-l_beeArq</string>
                 <key>bundle-version</key>
-                <string>请填上软件版本号</string>
+                <string>version_name_2019-11-25T13:52:59+0800</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>请填上软件名称</string>
+                <string>ele-l_beeArq</string>
             </dict>
         </dict>
     </array>
