@@ -1,10 +1,12 @@
 # Appstore
-> distribute application by github
+> 分发 APP 测试项目
 
 通过 `Github` 的 `https` 证书来完成在线安装 `ipa`
 
 - 可以完成流程，但是速度太慢无法使用，建议使用自有的证书来实现该功能
 - 需要自行去设置**信任证书**
+
+
 
 
 
