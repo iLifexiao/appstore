@@ -24,7 +24,8 @@ xcuserdata/
 
 ## Obj-C/Swift specific
 *.hmap
-*.ipa
+# use ipa
+#*.ipa
 *.dSYM.zip
 *.dSYM
 
